@@ -61,8 +61,8 @@ An open, transparent platform where donors pay **verified bills and debts** of f
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/alijalayer/mehrpol"><img src="https://raw.githubusercontent.com/alijalayer/mehrpol/main/docs/screenshots/home-light.png" width="48%" alt="Mehrpol home"></a>
-<a href="https://github.com/alijalayer/mehrpol"><img src="https://raw.githubusercontent.com/alijalayer/mehrpol/main/docs/screenshots/home-dark.png" width="48%" alt="Mehrpol dark mode"></a>
+<a href="https://github.com/alijalayer/mehrpol"><img src="https://raw.githubusercontent.com/alijalayer/mehrpol/main/docs/screenshots/home-light.png?v=2" width="48%" alt="Mehrpol home"></a>
+<a href="https://github.com/alijalayer/mehrpol"><img src="https://raw.githubusercontent.com/alijalayer/mehrpol/main/docs/screenshots/home-dark.png?v=2" width="48%" alt="Mehrpol dark mode"></a>
 
 </td>
 </tr>
