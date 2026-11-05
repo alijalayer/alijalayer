@@ -42,7 +42,7 @@ class AliJalayeri:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 #### 🌉 [Mehrpol — مهرپل](https://github.com/alijalayer/mehrpol)
 
@@ -59,22 +59,14 @@ An open, transparent platform where donors pay **verified bills and debts** of f
 <a href="https://mehrpol.cringeworld.ir"><b>🌐 Live demo</b></a> · <a href="https://github.com/alijalayer/mehrpol/releases/latest"><b>📦 Android</b></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" align="center" valign="middle">
 
-<a href="https://github.com/alijalayer/mehrpol"><img src="https://raw.githubusercontent.com/alijalayer/mehrpol/main/docs/screenshots/home-light.png?v=2" width="48%" alt="Mehrpol home"></a>
-<a href="https://github.com/alijalayer/mehrpol"><img src="https://raw.githubusercontent.com/alijalayer/mehrpol/main/docs/screenshots/home-dark.png?v=2" width="48%" alt="Mehrpol dark mode"></a>
+<a href="https://mehrpol.cringeworld.ir"><img src="https://raw.githubusercontent.com/alijalayer/mehrpol/main/docs/screenshots/home-light.png?v=2" width="200" alt="Mehrpol home screen"></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/alijalayer/hamsohbat"><img src="https://raw.githubusercontent.com/alijalayer/hamsohbat/main/video/shots/home.png" width="31%" alt="Hamsohbat home"></a>
-<a href="https://github.com/alijalayer/hamsohbat"><img src="https://raw.githubusercontent.com/alijalayer/hamsohbat/main/video/shots/matching.png" width="31%" alt="Hamsohbat matching on the globe"></a>
-<a href="https://github.com/alijalayer/hamsohbat"><img src="https://raw.githubusercontent.com/alijalayer/hamsohbat/main/video/shots/chat.png" width="31%" alt="Hamsohbat chat with live translation"></a>
-
-</td>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 #### 💬 [Hamsohbat — هم‌صحبت](https://github.com/alijalayer/hamsohbat)
 
@@ -89,6 +81,11 @@ A global, **anonymous peer-support** app that connects two people going through 
 **HTML · JavaScript · Android** &nbsp;·&nbsp; idea & design by **Naeim Jalayeri** (psychology)
 
 <sub>⚠️ Simulated demo — not a crisis service. In Iran: emergency **115**, counselling line **1480**, social emergency **123** · elsewhere: <a href="https://findahelpline.com">findahelpline.com</a></sub>
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+<a href="https://github.com/alijalayer/hamsohbat"><img src="https://raw.githubusercontent.com/alijalayer/hamsohbat/main/video/shots/home.png" width="200" alt="Hamsohbat home screen"></a>
 
 </td>
 </tr>
