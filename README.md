@@ -67,11 +67,28 @@ An open, transparent platform where donors pay **verified bills and debts** of f
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+<a href="https://github.com/alijalayer/hamsohbat"><img src="https://raw.githubusercontent.com/alijalayer/hamsohbat/main/video/shots/home.png" width="31%" alt="Hamsohbat home"></a>
+<a href="https://github.com/alijalayer/hamsohbat"><img src="https://raw.githubusercontent.com/alijalayer/hamsohbat/main/video/shots/matching.png" width="31%" alt="Hamsohbat matching on the globe"></a>
+<a href="https://github.com/alijalayer/hamsohbat"><img src="https://raw.githubusercontent.com/alijalayer/hamsohbat/main/video/shots/chat.png" width="31%" alt="Hamsohbat chat with live translation"></a>
+
+</td>
+<td width="50%" valign="top">
 
 #### 💬 [Hamsohbat — هم‌صحبت](https://github.com/alijalayer/hamsohbat)
 
-An **anonymous peer-support** app for people going through a hard time — someone to talk to, anywhere in the world. *(demo · Android)*
+A global, **anonymous peer-support** app that connects two people going through a very hard moment, so they can talk to someone who truly understands.
+
+- 🧩 Three-step projective check-in, with an AI read-out and guided breathing
+- 🌍 Live matches on an interactive globe — by age and mood
+- 🤖 AI chat (Gemini / Claude) with **live two-way translation** and risk detection
+- 🆘 SOS screen: emergency numbers and a route to a human counsellor
+- 🌧️ Calm tools: 4-4-6 breathing, on-device rain/sea/night sounds, private journal
+
+**HTML · JavaScript · Android** &nbsp;·&nbsp; idea & design by **Naeim Jalayeri** (psychology)
+
+<sub>⚠️ Simulated demo — not a crisis service. In Iran: emergency **115**, counselling line **1480**, social emergency **123** · elsewhere: <a href="https://findahelpline.com">findahelpline.com</a></sub>
 
 </td>
 </tr>
