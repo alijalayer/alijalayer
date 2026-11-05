@@ -98,7 +98,6 @@ An **anonymous peer-support** app for people going through a hard time — someo
 ### 📊 Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alijalayer&show_icons=true&hide_border=true&theme=transparent&title_color=08806b&icon_color=f0a53a&text_color=6b6f7a&count_private=true" height="165" alt="GitHub stats">
 <img src="https://streak-stats.demolab.com?user=alijalayer&hide_border=true&background=00000000&ring=08806B&fire=F0A53A&currStreakLabel=08806B&sideLabels=6b6f7a&dates=6b6f7a&currStreakNum=08806B&sideNums=08806B" height="165" alt="Streak">
 </div>
 
